@@ -40,12 +40,6 @@ sidebar:
     - idiom: English
       level: Native
 
-    - idiom: French
-      level: Professional
-
-    - idiom: Spanish
-      level: Professional
-
   interests:
     title: Interests
     info:
@@ -101,37 +95,31 @@ education:
         - Bullet point
 
 experiences:
-  title: Experiences
+  title: Narratives
   info:
   - role: Lead Developer
     time: 2015 - Present
     company: Startup Hubs, San Francisco
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      The artifact I selected for this project is the CS360 Inventory App. The 
+      app was created using Android Studio around 2022-2023. The requirements 
+      for the artifact were: a login requirement, the ability to add or subtract 
+      products, a notification system to alert the user when a product is low, 
+      and finally, all of the above should be accessed through different screens. 
+      The main reason I selected this artifact was because there were no other 
+      options available. That said, even if it wasn’t it would still be my top 
+      pick. When originally creating it, I planned to do more than what was 
+      required, and designed the UI around what I planned. In the end, I decided 
+      to only do what was required since there was no reason for me to do otherwise. 
+      With my Software Development enhancement, I planned to finish the buttons that 
+      were previously unfinished. With the Algorithms and Data Structures enhancement, 
+      I planned to add ways to filter through the data, such as name or storage. With 
+      the Database enhancement, I planned to use a SQLite database to store the 
+      accounts’ information. This would allow for the data to be saved between launches.
+
   - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+    time: 
+    company: 
     details: |
       Describe your role here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
