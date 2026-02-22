@@ -134,14 +134,14 @@ certifications:
 projects:
   title: Projects
   intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    You can list your side projects in this section. 
   assignments:
-  - title: Velocity
-    link: "#hook"
+  - title: CS360 Artifact
+    link: "#https://drive.google.com/file/d/1AJgIKw5HSatpwQnZPSBi9zY4CWNEDK2k/view?usp=sharing"
     tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-  - title: DevStudio
-    link: "#"
+  - title: CS499 Enhancement
+    link: "#https://drive.google.com/file/d/1xZp-2q3LlWjy263NHGWbMWdIr5_2KIcF/view?usp=sharing"
     tagline: "A responsive website template designed to help web developers/designers market their services."
 
   - title: Tempo
