@@ -20,7 +20,7 @@ sidebar:
   website: https://example.com/ # Include the full website URL, including "http://" or "https://".
   linkedin: alandoe
   xing: #
-  github: jekyll
+  github: CampWingard
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
@@ -95,9 +95,9 @@ education:
         - Bullet point
 
 experiences:
-  title: Narratives
+  title: Narrative
   info:
-  - role: Lead Developer
+  - role: 
     time: 
     company: 
     details: |
@@ -119,45 +119,17 @@ experiences:
       accounts’ information. This would allow for the data to be saved between launches.
 
 certifications:
-  title: Certifications
+  title: Code Review
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
+  - name: 
+    start: 
+    end: 
+    organization: 
+    credentialid: 
+    credentialurl: 
+    credentialname: 
     details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
-    details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+      https://drive.google.com/file/d/1qtm_LxmH2KVgzw7zUdS5jPr0PSORLVKe/view?usp=sharing
 
 projects:
   title: Projects
