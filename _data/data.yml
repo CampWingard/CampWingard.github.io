@@ -137,12 +137,12 @@ projects:
     You can list your side projects in this section. 
   assignments:
   - title: CS360 Artifact
-    link: "#https://drive.google.com/file/d/1AJgIKw5HSatpwQnZPSBi9zY4CWNEDK2k/view?usp=sharing"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    link: "https://drive.google.com/file/d/1AJgIKw5HSatpwQnZPSBi9zY4CWNEDK2k/view?usp=sharing"
+    tagline: "https://drive.google.com/file/d/1AJgIKw5HSatpwQnZPSBi9zY4CWNEDK2k/view?usp=sharing"
 
   - title: CS499 Enhancement
-    link: "#https://drive.google.com/file/d/1xZp-2q3LlWjy263NHGWbMWdIr5_2KIcF/view?usp=sharing"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    link: "https://drive.google.com/file/d/1xZp-2q3LlWjy263NHGWbMWdIr5_2KIcF/view?usp=sharing"
+    tagline: "https://drive.google.com/file/d/1xZp-2q3LlWjy263NHGWbMWdIr5_2KIcF/view?usp=sharing"
 
   - title: Tempo
     link: "#"
