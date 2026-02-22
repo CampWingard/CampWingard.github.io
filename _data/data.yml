@@ -98,8 +98,8 @@ experiences:
   title: Narratives
   info:
   - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+    time: 
+    company: 
     details: |
       The artifact I selected for this project is the CS360 Inventory App. The 
       app was created using Android Studio around 2022-2023. The requirements 
@@ -117,18 +117,6 @@ experiences:
       I planned to add ways to filter through the data, such as name or storage. With 
       the Database enhancement, I planned to use a SQLite database to store the 
       accounts’ information. This would allow for the data to be saved between launches.
-
-  - role: Senior Software Engineer
-    time: 
-    company: 
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
 
 certifications:
   title: Certifications
