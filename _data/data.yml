@@ -64,12 +64,16 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    My greatest strengths revolve around programming, and my greatest weaknesses 
+    revolve around communication. My career goals revolve around programming, thus 
+    maximizing my strengths and hopefully minimizing my weaknesses. I have a lot 
+    of general programming experience using various programming languages, but no 
+    expertise unfortunately. In terms of collaborating in a team environment, I did 
+    not experience programming with anyone else, but it is a constant with my current 
+    job. My artifact enhancement does what I initially struggled with during the 
+    original class, and much more that wasn't initially planned. The artifact uses 
+    Android Studio, Java, and a SQLite database to accomplish everything I sought to 
+    achieve through the enhancement.
 education:
   title: Education
   info:
